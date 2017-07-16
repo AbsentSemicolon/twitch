@@ -22,3 +22,8 @@
     color: blue;
 }
     
+.text-bg {
+    padding: 5px 15px;
+    background: #000000;
+    display: inline-block;
+}
