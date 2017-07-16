@@ -1,4 +1,4 @@
-@keyframes example {
+@keyframes side-from-left {
     0% {
         left: -100%;
         display: block;
@@ -17,3 +17,8 @@
         opacity: 0;
     }
 }
+
+.prop-name {
+    color: blue;
+}
+    
